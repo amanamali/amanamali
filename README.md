@@ -16,3 +16,7 @@
 * [**Health Assistant HITL**](https://github.com/amanamali/Health-Assistant-HITL)
   Human-in-the-loop AI health assistant designed for guided medical information, review, and safer decision support.
 
+* [**Hospital Fracture Identification**](https://github.com/amanamali/hospital-fracture-identification)
+  Computer vision and deep learning solution for fracture identification from medical imaging, supporting emergency-room review and clinical decision support.
+
+
