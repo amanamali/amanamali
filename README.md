@@ -19,4 +19,7 @@
 * [**Hospital Fracture Identification**](https://github.com/amanamali/hospital-fracture-identification)
   Computer vision and deep learning solution for fracture identification from medical imaging, supporting emergency-room review and clinical decision support.
 
+* [**Medical RAG Assistant**](https://github.com/amanamali/Medical-RAG-Assistant)
+  Retrieval-Augmented Generation solution for medical knowledge retrieval and grounded question answering using an indexed healthcare knowledge base.
+
 
