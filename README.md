@@ -10,3 +10,9 @@
 
 * [**Travel Planner Multi-Agent**](https://github.com/amanamali/travel-planner-multiagent)
   Multi-agent ReAct-based travel planning solution for itinerary generation, flight evaluation, hotel selection, rental-car scoring, and travel recommendations.
+
+## 🏥 Healthcare AI Solutions
+
+* [**Health Assistant HITL**](https://github.com/amanamali/Health-Assistant-HITL)
+  Human-in-the-loop AI health assistant designed for guided medical information, review, and safer decision support.
+
