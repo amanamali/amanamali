@@ -22,4 +22,8 @@
 * [**Medical RAG Assistant**](https://github.com/amanamali/Medical-RAG-Assistant)
   Retrieval-Augmented Generation solution for medical knowledge retrieval and grounded question answering using an indexed healthcare knowledge base.
 
+## 💰 Financial Services AI Solutions
+
+* [**Multi-Agent Mortgage Assistant**](https://github.com/amanamali/multiagent-mortgage)
+  ReAct-based agentic AI mortgage solution with human-in-the-loop review, RAG, and multi-agent underwriting support for loan evaluation and decision workflows.
 
