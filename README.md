@@ -27,3 +27,7 @@
 * [**Multi-Agent Mortgage Assistant**](https://github.com/amanamali/multiagent-mortgage)
   ReAct-based agentic AI mortgage solution with human-in-the-loop review, RAG, and multi-agent underwriting support for loan evaluation and decision workflows.
 
+* [**Financial News Intelligence**](https://github.com/amanamali/financial-news-intelligence)
+  Generative AI solution for financial-news aggregation, summarization, sentiment analysis, and market intelligence to support faster investment and business decisions.
+
+
