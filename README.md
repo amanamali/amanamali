@@ -36,3 +36,4 @@
 ## Support AI Solutions
 
 - [E-Commerce Support Agent](https://github.com/amanamali/E-Commerce-Agent) — Responsible AI-powered e-commerce support assistant for customer, order, payment, and product-related queries.
+- [AI Ticket Classifier](https://github.com/amanamali/AI-Ticket-Classifier) — DSPy-powered support ticket classification copilot for automated categorization, prioritization, and routing.
