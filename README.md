@@ -33,4 +33,6 @@
 - [**Stocks with AI Analysis**](https://github.com/amanamali/Stocks_with_AI_Analysis)  
   AI-powered stock analysis combining company AI initiatives, market sentiment, and investment intelligence for decision support.
 
+## Support AI Solutions
 
+- [E-Commerce Support Agent](https://github.com/amanamali/E-Commerce-Agent) — Responsible AI-powered e-commerce support assistant for customer, order, payment, and product-related queries.
