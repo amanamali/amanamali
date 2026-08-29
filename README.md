@@ -41,3 +41,4 @@
 ## 🛡️ Insurance AI Solutions
 
 - [Health Insurance Claims Assistant](https://github.com/amanamali/health-insurance-claim-bot) — RAG-based health insurance assistant for policy questions, claims guidance, grounded document retrieval, and claims support.
+- [Auto Insurance AI](https://github.com/amanamali/Auto-insurance-AI) — AI-powered auto insurance assistant for policy coverage analysis, grounded document retrieval, and insurance-related customer support.
