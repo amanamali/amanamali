@@ -46,3 +46,7 @@
 ## 🏠 Real Estate AI Solutions
 
 - [Rental Agent AI](https://github.com/amanamali/rental-agent-ai) — AI-powered rental and tenant-rights assistant for lease analysis, grounded rental guidance, case retrieval, and tenant-landlord support.
+
+## ⚖️ Lawyers AI Solutions
+
+- [Lawyers AI Assistant](https://github.com/amanamali/lawyers-ai-solutions) — Generative AI legal assistant for case research, legal document analysis, retrieval-based search, and lawyer workflow support.
