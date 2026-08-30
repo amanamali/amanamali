@@ -54,3 +54,7 @@
 ## 🤖 Agentic Robotics Navigation via RL
 
 - [Robotic Navigation AI](https://github.com/amanamali/Robotic-Navigation-AI) — Reinforcement learning-based robotic warehouse navigation solution for intelligent path planning, autonomous movement, obstacle-aware routing, multi-robot scenarios, and operational ROI analysis.
+
+## 🔗 MCP-Based Supply Chain Agents
+
+- [MCP Supply Chain Agent](https://github.com/amanamali/YOUR-REPO-NAME) — Agentic supply chain solution using Model Context Protocol (MCP) for tool integration, inventory intelligence, logistics analysis, and workflow automation.
