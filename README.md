@@ -50,3 +50,7 @@
 ## ⚖️ Lawyers AI Solutions
 
 - [Lawyers AI Assistant](https://github.com/amanamali/lawyers-ai-solutions) — Generative AI legal assistant for case research, legal document analysis, retrieval-based search, and lawyer workflow support.
+
+## 🤖 Agentic Robotics Navigation via RL
+
+- [Robotic Navigation AI](https://github.com/amanamali/Robotic-Navigation-AI) — Reinforcement learning-based robotic warehouse navigation solution for intelligent path planning, autonomous movement, obstacle-aware routing, multi-robot scenarios, and operational ROI analysis.
