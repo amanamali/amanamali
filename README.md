@@ -58,3 +58,7 @@
 ## 🔗 MCP-Based Supply Chain Agents
 
 - [MCP Supply Chain Agent](https://github.com/amanamali/YOUR-REPO-NAME) — Agentic supply chain solution using Model Context Protocol (MCP) for tool integration, inventory intelligence, logistics analysis, and workflow automation.
+
+## ⭐ AI-Powered Reviews
+
+- [Restaurant Reviews AI](https://github.com/amanamali/restaurant-reviews) — AI-powered restaurant review analyzer for sentiment detection, customer feedback insights, review summarization, and dining experience trends using Hugging Face inference models.
