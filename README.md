@@ -62,3 +62,8 @@
 ## ⭐ AI-Powered Reviews
 
 - [Restaurant Reviews AI](https://github.com/amanamali/restaurant-reviews) — AI-powered restaurant review analyzer for sentiment detection, customer feedback insights, review summarization, and dining experience trends using Hugging Face inference models.
+
+## ⚡ Performance AI Solutions
+
+- [**Information Compression & Reranking**](https://github.com/amanamali/Information-Compression-Reranking)  
+  RAG retrieval optimization using semantic reranking and information compression to improve retrieval relevance, LLM context quality, and response accuracy.
