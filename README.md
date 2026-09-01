@@ -66,4 +66,7 @@
 ## ⚡ Performance AI Solutions
 
 - [**Information Compression & Reranking**](https://github.com/amanamali/Information-Compression-Reranking)  
-  RAG retrieval optimization using semantic reranking and information compression to improve retrieval relevance, LLM context quality, and response accuracy.
+  RAG retrieval optimization using semantic reranking using cohere API, information compression to improve retrieval relevance, LLM context quality, and response accuracy.
+
+- [**Multimodal RAG Assistant**](https://github.com/amanamali/rag-multi-modal)  
+  Multimodal RAG solution for intelligent PDF question answering across text, tables, and images using Azure OpenAI, LlamaParse, Chroma, and vector search.
