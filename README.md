@@ -75,3 +75,6 @@
 
 - [**RAGAS & DeepEval Drilldown**](https://github.com/amanamali/ragas-deepeval-drilldown)  
   RAG evaluation and governance solution using RAGAS and DeepEval to assess retrieval quality, generated responses, context relevance, and LLM performance.
+
+- [**LLM-as-a-Judge & BERTScore**](https://github.com/amanamali/LLM-as-a-Judge-bert-score)  
+  LLM evaluation solution combining LLM-as-a-Judge and BERTScore to assess response quality, relevance, semantic similarity, and generated answer performance.
