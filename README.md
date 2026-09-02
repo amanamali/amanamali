@@ -70,3 +70,8 @@
 
 - [**Multimodal RAG Assistant**](https://github.com/amanamali/rag-multi-modal)  
   Multimodal RAG solution for intelligent PDF question answering across text, tables, and images using Azure OpenAI, LlamaParse, Chroma, and vector search.
+
+## 🛡️ AI Governance
+
+- [**RAGAS & DeepEval Drilldown**](https://github.com/amanamali/ragas-deepeval-drilldown)  
+  RAG evaluation and governance solution using RAGAS and DeepEval to assess retrieval quality, generated responses, context relevance, and LLM performance.
