@@ -78,3 +78,8 @@
 
 - [**LLM-as-a-Judge & BERTScore**](https://github.com/amanamali/LLM-as-a-Judge-bert-score)  
   LLM evaluation solution combining LLM-as-a-Judge and BERTScore to assess response quality, relevance, semantic similarity, and generated answer performance.
+
+## 🧪 QA Testing AI Solutions
+
+- [**Expense Management Agent**](https://github.com/amanamali/Expense-Management-Agent)  
+  AI-powered QA and synthetic claims with ground truth · fault injection at the extraction boundary · SLO gates.
