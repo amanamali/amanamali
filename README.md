@@ -83,3 +83,7 @@
 
 - [**Expense Management Agent**](https://github.com/amanamali/Expense-Management-Agent)  
   AI-powered QA and synthetic claims with ground truth · fault injection at the extraction boundary · SLO gates.
+
+- [**Agentic Reliability Scale**](https://github.com/amanamali/Agentic_Reliabillity_Scale)  
+  AI reliability and QA evaluation solution for testing agent behavior, consistency, robustness, and operational reliability across agentic workflows stress testing with disaster scenarios
+  
