@@ -42,7 +42,7 @@
 
 - [Health Insurance Claims Assistant](https://github.com/amanamali/health-insurance-claim-bot) — RAG-based health insurance assistant for policy questions, claims guidance, grounded document retrieval, and claims support.
 - [Auto Insurance AI](https://github.com/amanamali/Auto-insurance-AI) — AI-powered auto insurance assistant for policy coverage analysis(grounded document retrieval, and insurance-related customer support.
-- [Insurance Claims Processing Agent](https://github.com/amanamali/insurance-agent) - Agentic AI solution for (AAA insurance claims processing using LangGraph, RAG, ChromaDB, and OpenAI for policy retrieval, claim validation, and decision support.
+- [Insurance Claims Processing Agent](https://github.com/amanamali/insurance-agent) - Agentic AI solution for AAA insurance claims processing using LangGraph, RAG, ChromaDB, and OpenAI for policy retrieval, claim validation, and decision support.
 
 ## 🏠 Real Estate AI Solutions
 
