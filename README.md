@@ -72,6 +72,9 @@
 - [**Multimodal RAG Assistant**](https://github.com/amanamali/rag-multi-modal)  
   Multimodal RAG solution for intelligent PDF question answering across text, tables, and images using Azure OpenAI, LlamaParse, Chroma, and vector search.
 
+- [**QLoRA Fine-Tuning**](https://github.com/amanamali/qlora)  
+  Parameter-efficient fine-tuning of LLMs using QLoRA, 4-bit NF4 quantization, LoRA adapters, Hugging Face TRL, PEFT, and bitsandbytes. Includes supervised fine-tuning, adapter saving/loading, model merging, and inference testing.
+
 ## 🛡️ AI Governance
 
 - [**RAGAS & DeepEval Drilldown**](https://github.com/amanamali/ragas-deepeval-drilldown)  
