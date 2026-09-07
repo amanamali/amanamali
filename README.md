@@ -91,3 +91,7 @@
 - [**Agentic Reliability Scale**](https://github.com/amanamali/Agentic_Reliabillity_Scale)  
   AI reliability and QA evaluation solution for testing agent behavior, consistency, robustness, and operational reliability across agentic workflows stress testing with disaster scenarios
   
+## 📣 Marketing AI Solutions
+
+- [**Marketing Bakery Multi-Modal**](https://github.com/amanamali/Marketing-Bakery-Multi-Modal)  
+  Multimodal Generative AI solution for bakery marketing that creates promotional images, AI-generated videos, voiceovers, and branded campaign content using SDXL, Google Veo/Vertex AI, Parler-TTS, and MoviePy.
