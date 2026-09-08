@@ -95,3 +95,7 @@
 
 - [**Marketing Bakery Multi-Modal**](https://github.com/amanamali/Marketing-Bakery-Multi-Modal)  
   Multimodal Generative AI solution for bakery marketing that creates promotional images, AI-generated videos, voiceovers, and branded campaign content using SDXL, Google Veo/Vertex AI, Parler-TTS, and MoviePy.
+
+## 🌾 AI-Agriculture-Solution
+
+- [Agri Pest Control](https://github.com/amanamali/agri-pest-control) — AI-powered agricultural pest control application using Generative AI, RAG, and cloud services to help identify pest issues and provide intelligent crop protection recommendations.
