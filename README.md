@@ -101,3 +101,7 @@
 ## 🌾 AI-Agriculture-Solution
 
 - [Agri Pest Control](https://github.com/amanamali/agri-pest-control) — AI-powered agricultural pest control application using Generative AI, RAG, and cloud services to help identify pest issues and provide intelligent crop protection recommendations.
+
+## ✈️ Travel AI Solutions
+
+- [Wondering Travels RAG Chatbot](https://github.com/amanamali/wondering-travels-rag-chatbot) — AI-powered travel assistant using RAG and Large Language Models to retrieve relevant travel information, answer user questions, and provide intelligent trip recommendations.
