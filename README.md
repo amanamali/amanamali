@@ -56,9 +56,11 @@
 
 - [Robotic Navigation AI](https://github.com/amanamali/Robotic-Navigation-AI) — Reinforcement learning-based robotic warehouse navigation solution for intelligent path planning, autonomous movement, obstacle-aware routing, multi-robot scenarios, and operational ROI analysis.
 
-## 🔗 MCP-Based Supply Chain Agents
+## 🚚 Supply Chain AI Solutions
 
-- [MCP Supply Chain Agent](https://github.com/amanamali/YOUR-REPO-NAME) — Agentic supply chain solution using Model Context Protocol (MCP) for tool integration, inventory intelligence, logistics analysis, and workflow automation.
+- [Supply Chain LLMOps](https://github.com/amanamali/Supply-Chain-LLMOPS) — AI-powered supply chain solution demonstrating LLMOps practices for building, evaluating, deploying, and monitoring reliable Generative AI applications for supply chain workflows.
+
+- [MCP Supply Chain](https://github.com/amanamali/MCP-Supply-chain) — MCP-based supply chain AI solution using intelligent agents and tools to automate and coordinate supply chain workflows.
 
 ## ⭐ AI-Powered Reviews
 
