@@ -95,8 +95,7 @@
   
 ## 📣 Marketing AI Solutions
 
-- [**Marketing Bakery Multi-Modal**](https://github.com/amanamali/Marketing-Bakery-Multi-Modal)  
-  Multimodal Generative AI solution for bakery marketing that creates promotional images, AI-generated videos, voiceovers, and branded campaign content using SDXL, Google Veo/Vertex AI, Parler-TTS, and MoviePy.
+- [**Marketing Bakery Multi-Modal**](https://github.com/amanamali/Marketing-Bakery)- Multimodal Generative AI solution for bakery marketing that creates promotional images, AI-generated videos, voiceovers, and branded campaign content using SDXL, Google Veo/Vertex AI, Parler-TTS, and MoviePy.
 
 ## 🌾 AI-Agriculture-Solution
 
