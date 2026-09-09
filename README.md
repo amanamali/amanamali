@@ -106,7 +106,10 @@
 
 - [Wondering Travels RAG Chatbot](https://github.com/amanamali/wondering-travels-rag-chatbot) — AI-powered travel assistant using RAG and Large Language Models to retrieve relevant travel information, answer user questions, and provide intelligent trip recommendations.
 
-## 🤖 Agentic AI Frameworks & Multi-Agent Systems (with CrewAI and Ollama)
+## 🤖 Agentic AI Frameworks & Multi-Agent Systems
 
 - [CrewAI-Ollama-Multi-Agent](https://github.com/amanamali/CrewAI-Ollama-Multi-Agent)  
-  Multi-agent AI demonstration using CrewAI for agent orchestration and Ollama for local LLM inference with Llama, enabling private and modular agentic workflows.
+  Multi-agent AI demonstration using CrewAI for agent orchestration and Ollama for local LLM inference, enabling modular and private agentic workflows.
+
+- [Multi-Agent-Swarm-Intelligence](https://github.com/amanamali/Multi-Agent-Swarm-Intelligence)  
+  Swarm-intelligence implementation demonstrating coordination among multiple autonomous agents for resource collection, navigation, and multi-agent decision-making.
